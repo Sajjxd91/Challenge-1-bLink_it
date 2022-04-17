@@ -18,9 +18,9 @@ This code is written to blink 8 led light one after the another using aurdino un
 ### Installing
 
 * Place the led lights in the Breadboard
-*One end of led should be connected to output pin of arduino board.
-*The other end of led should be connected to ground pin of arduino board.
-*simillary do all the 7 leds in the same way.
+* One end of led should be connected to output pin of arduino board.
+* The other end of led should be connected to ground pin of arduino board.
+* Simillary connect do all the 7 leds in the same way.
 * Now write the code.
 
 ### My circuit image
