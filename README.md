@@ -4,7 +4,7 @@ Team bi0s hardware challenge 1.
 
 ## Description
 
-This code is written to blink 8 led light one after the another using aurdino uno.
+This code is written to blink 8 led light one after the another using Arduino.
 
 ## Getting Started
 
