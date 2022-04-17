@@ -26,3 +26,6 @@ This code is written to blink 8 led light one after the another using aurdino un
 ### Executing program
 
 * Click on start stimulation for the exicution of the program.
+```
+I have performed this experiment on Thinkercad Platform.
+``
